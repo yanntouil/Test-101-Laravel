@@ -1,0 +1,16 @@
+App\Model::all()
+DB::table('customers')->get()
+DB::table('specs')->get()
+DB::table('customers')->get();
+DB::table('specs')->get();
+DB::table('customers')->get();
+DB::table('customers')->get();
+DB::table('customers')->get()->get();
+DB::table('customers')->get();
+DB::table('customers')->get();
+DB::table('specs')->get();
+DB::table('customers')->get();
+DB::table('specs')->get();
+DB::table('specs')->get();
+DB::table('specs')->get();
+DB::table('specs')->get();
